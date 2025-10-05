@@ -7,7 +7,7 @@
           "update_link": "https://r1tain.github.io/firefox-addon-update/firefox-bookmark-sync-1.0.1.xpi",
           "applications": {
             "gecko": {
-              "strict_min_version": "42.0"
+              "strict_min_version": "109.0"
             }
           }
         }
